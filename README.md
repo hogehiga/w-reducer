@@ -11,3 +11,6 @@ xpi package is placed <https://github.com/hogehiga/w-reducer/releases> .
 2. Open a webpage.
 3. Click right button.
 4. Click "ｗｗｗｗｗ->ｗ" in popup menu.
+
+## Source
+https://twitter.com/goldbook/status/322893561152540672
